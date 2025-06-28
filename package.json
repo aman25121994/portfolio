@@ -16,6 +16,7 @@
     "@types/jest": "^29.5.11",
     "framer-motion": "^11.0.2",
     "next": "14.0.4",
+    "next-sanity": "^9.12.0",
     "react": "^18",
     "react-dom": "^18",
     "react-simple-typewriter": "^5.0.1",
