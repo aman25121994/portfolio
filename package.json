@@ -9,16 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@sanity/icons": "^2.8.0",
     "@types/jest": "^29.5.11",
     "framer-motion": "^11.0.2",
-    "next": "14.0.4",
-    "next-sanity": "^9.12.0",
+    "next": "^14.2.30",
+    "next-sanity": "^0.8.5",
     "react": "^18",
     "react-dom": "^18",
     "react-simple-typewriter": "^5.0.1",
     "react-social-icons": "^6.10.0",
     "react-spring": "^9.7.3",
-    "sanity": "^3.26.1",
+    "sanity": "^2.36.6",
     "styled-components": "^6.1.8",
     "swr": "^2.2.4"
   },
