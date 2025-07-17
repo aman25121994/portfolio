@@ -12,7 +12,7 @@
     "@heroicons/react": "^2.2.0",
     "@sanity/desk-tool": "^2.36.2",
     "@sanity/icons": "^2.8.0",
-    "@sanity/vision": "^2.36.2",
+    "@sanity/vision": "^2.36.6",
     "@types/jest": "^29.5.11",
     "framer-motion": "^11.0.2",
     "next": "^14.2.30",
